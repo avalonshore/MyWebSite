@@ -25,5 +25,4 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Run cat first.txt
-        run: |
-          cat first.txt
+        run: cat first.txt
